@@ -1,0 +1,36 @@
+{
+  "dataset": "UCI Dry Bean",
+  "uci_id": 602,
+  "features": [
+    "Area",
+    "Perimeter",
+    "MajorAxisLength",
+    "MinorAxisLength",
+    "AspectRatio",
+    "Eccentricity",
+    "ConvexArea",
+    "EquivDiameter",
+    "Extent",
+    "Solidity",
+    "Roundness",
+    "Compactness",
+    "ShapeFactor1",
+    "ShapeFactor2",
+    "ShapeFactor3",
+    "ShapeFactor4"
+  ],
+  "target": "Class",
+  "classes": [
+    "BARBUNYA",
+    "BOMBAY",
+    "CALI",
+    "DERMASON",
+    "HOROZ",
+    "SEKER",
+    "SIRA"
+  ],
+  "instances": 13611,
+  "train_rows": 10888,
+  "test_rows": 2723,
+  "random_state": 42
+}
