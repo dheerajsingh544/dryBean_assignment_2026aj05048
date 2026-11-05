@@ -12,8 +12,7 @@ Predict one of seven dry-bean varieties (Seker, Barbunya, Bombay, Cali, Dermason
 - Split: 80 % train / 20 % test (stratified, random_state=42)
 
 ## C. GitHub repository link
-`https://github.com/dheerajsingh544/dryBean_assignment_2026aj05048`  
-*(Replace with your actual public repository URL before submission)*
+https://github.com/dheerajsingh544/dryBean_assignment_2026aj05048
 
 ## D. Models and evaluation
 
@@ -48,7 +47,7 @@ Predict one of seven dry-bean varieties (Seker, Barbunya, Bombay, Cali, Dermason
 - Comparison CSV download
 - Models are loaded from saved `.joblib` files — no retraining on uploaded data
 
-Live app URL: `ADD YOUR DEPLOYED STREAMLIT URL`
+Live app: https://drybeanassignment2026aj05048.streamlit.app/
 
 ## F. Run locally (BITS Virtual Lab)
 ```bash
